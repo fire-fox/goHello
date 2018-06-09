@@ -39,3 +39,7 @@ git push -u origin master
 
 ### Paso 10 - Configuracion terminada
 Para hacer cambios seguir pasos 2, 3 , 5 y 9
+
+## GO
+### Añadiendo ruteador
+go get -u github.com/gorilla/mux
