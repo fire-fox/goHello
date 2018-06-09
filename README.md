@@ -39,3 +39,7 @@ git push -u origin master
 
 ### Paso 10 - Configuracion terminada
 Para hacer cambios seguir pasos 2, 3 , 5 y 9
+
+
+### PASO 11 - CLONAR 
+git clone -b e2 --single-branch git@github.com:fire-fox/goHello.git
